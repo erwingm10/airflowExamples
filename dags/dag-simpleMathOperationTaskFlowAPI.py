@@ -32,11 +32,3 @@ def taskflow_dag():
     selectHigherNumberOperation(MathOperation1,MathOperation2)
 
 taskflow_dag()
-
-
-
-
-
-
-
-
